@@ -1,0 +1,20 @@
+interview vragen
+
+- welk thema wilt u dat het heeft
+- wilt u de login een aparte pagina hebbe
+- welke userdata wilt u opslaan
+- waar wilt u de navigatie balk
+- welke specifieke features wilt u er bij hebben
+- wilt u animaties
+- op welke devices wilt u het laten werken
+- wat is uw budget
+- wat is het doel van uw website
+- wat is uw target audience
+- wat zijn uw technische benodigdheden
+- wat vind uw leuk aan vergelijkbare websites
+- welke webpagina's wilt u op uw site
+- Moet er een contactformulier komen?
+- Moet er een zoekfunctie op de website komen?
+- Wilt u een vaste of scrollende navigatiebalk?
+- Wilt u een dark mode/light mode optie?
+- Heeft u al een bestaande website of is dit een compleet nieuwe site?
